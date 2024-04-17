@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background-color: rgb(60, 60, 238);
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+.heading{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.board{
+    display: block;
+    margin: 0 auto;
+    color: rgb(0, 238, 255);
+}
