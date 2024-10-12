@@ -1,1 +1,1 @@
-# chai_pj5
+snake game using html, css, js
